@@ -35,7 +35,12 @@ Follow these instructions to set up and run the project on your local machine.
     source venv/bin/activate
     ```
 
-4. **Install the dependencies:**
+4. **Move into the scrapy project folder:**
+    ```sh
+    cd product_scraper
+    ```
+
+5. **Install the dependencies:**
 
     ```sh
     pip install -r requirements.txt
