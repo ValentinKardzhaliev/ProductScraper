@@ -15,8 +15,15 @@ Follow these instructions to set up and run the project on your local machine.
 ### Installation
 
 1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/ValentinKardzhaliev/ProductScraper/
+    ```
+2. **Move into the project directory:**
+    ```
+    cd ProductScraper
+    ```
 
-2. **Set up a virtual environment:**
+3. **Set up a virtual environment:**
 
     ```sh
     # On Windows
@@ -28,7 +35,7 @@ Follow these instructions to set up and run the project on your local machine.
     source venv/bin/activate
     ```
 
-3. **Install the dependencies:**
+4. **Install the dependencies:**
 
     ```sh
     pip install -r requirements.txt
